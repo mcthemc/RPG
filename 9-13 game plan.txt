@@ -1,0 +1,42 @@
+****Main Areas****
+Art (music?)
+Interface / controls
+Story
+Code
+‘Algorithms’
+
+--------
+Turn-based combat 
+Single character
+--------
+
+Map: Hit the edge, load next section
+
+
+*******Creative shit******
+Low priority: 8-bit music tracks
+Story
+	Setting
+
+
+****Classes and stuff****
+- Character (static)
+	individual stats, leveling, moves, data re: point based leveling
+
+- Save & open files
+
+- Dynamic stats
+	things that go in the save file
+	your level / stats
+	hp, 'mana' shit or w/e
+	moveset / weapons / equipped / whatever
+	items
+
+- Battling!
+
+- Item information / use
+	define each item, its id, what it does 
+
+
+
+

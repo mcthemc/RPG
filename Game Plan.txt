@@ -13,7 +13,7 @@ Single character
 Map: Hit the edge, load next section
 
 
-*******Creative shit******
+****Creative shit****
 Low priority: 8-bit music tracks
 Story
 	Setting
@@ -39,4 +39,8 @@ Story
 
 
 
-
+****Things we know****
+-setting: Steampunt Ancient Rome
+-Facial hair/ beards as an experience counter
+-shapeshifting pet
+-potemon-like battle system

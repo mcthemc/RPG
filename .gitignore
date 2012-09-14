@@ -1,0 +1,7 @@
+# use glob syntax.
+glob:*.class
+glob:*/build/*
+glob:*/bin/*
+glob:*/doc/*
+glob:*/.metadata/*
+glob:.DS_Store

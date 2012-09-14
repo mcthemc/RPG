@@ -1,0 +1,7 @@
+*~
+*.class
+*/build/*
+*/bin/*
+*/doc/*
+*/.metadata/*
+.DS_Store

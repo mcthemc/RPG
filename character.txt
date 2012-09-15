@@ -12,4 +12,6 @@ XY
  -someone finds him, nurses him back to health
  -a dumbass
   -no knowledge of past
-
+-soul search walk
+ -attached by monsters
+ -mentor is "killed"

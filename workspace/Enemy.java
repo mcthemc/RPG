@@ -4,7 +4,6 @@ public class Enemy {
   /* in the distant future, the Enemy stats and type will be based on location and/or player level. */ 
   private Random rand = new Random(); 
   
-  /* STATS */
   private int level;
   private int HP;
   
@@ -22,10 +21,13 @@ public class Enemy {
   
   public void damage(int decrement) {
     if (HP - decrement <= 0) 
-      HP = 0; 
+      HP = 0;
     else 
       HP -= decrement; 
   }  
+  public void die() { // for when you murder the bastard
+    
+  }
   
 }
 
